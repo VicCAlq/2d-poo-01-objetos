@@ -89,6 +89,9 @@ const meuPapagaio = {
   }
 }
 
+// Para avaliar a atividade, precisamos exportar o objeto criado
+export default meuPapagaio
+
 // Experimente o resultado dos console.log e console.table abaixo:
 console.log(meuPapagaio)
 console.table(meuPapagaio)

@@ -12,5 +12,7 @@
   *
   * O método deve além de curar os pontos de vida, deve também remover uma 
   * das poções de seu inventário.
+  *
+  * Lembre-se de exportar o objeto do personagem no final do código.
   */
 

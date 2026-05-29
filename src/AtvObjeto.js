@@ -14,6 +14,9 @@
   * de "prata" e "125" moedas de "bronze".
   * Por fim, ele tem algumas "pocoes", sendo elas "7" de "cura" e "5" de "magia".
   *
-  * Ao criar o objeto, coloque a palavra "export" antes da palavra "const".
   * Valores que forem números devem ser informados sem as áspas.
+  *
+  * Após criar o objeto, coloque no final do código, fora do objeto, 
+  * as palavras "export default" seguido do nome do objeto, 
+  * como "export default personagem"
   */

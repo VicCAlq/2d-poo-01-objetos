@@ -35,5 +35,7 @@
   * Caso o personagem não tenha dinheiro suficiente para comprar a 
   * quantidade informada de poções, o método deve imprimir o texto
   * "Você não tem dinheiro o suficiente, meu caro. Quer fazer um empréstimo?"
+  *
+  * Lembre-se de exportar o objeto do personagem no final do código.
   */
 
