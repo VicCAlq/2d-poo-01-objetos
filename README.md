@@ -33,6 +33,7 @@ Atenção aos detalhes abaixo:
 5. Se não estiver na pasta certa, use o comando `cd` seguido do nome da pasta que deseja entrar, que deve ser a pasta `/src/`. Confira com o comando `pwd` a pasta que você está no momento a cada vez que precisar se localizar no terminal.
 6. Estando na pasta correta, execute o código com o comando `node NomeDoArquivo.js` substituindo `NomeDoArquivo` pelo nome do arquivo da questão que você deseja testar.
 7. O envio da atividade deve ser feito através do GitHub. Para o envio, siga os passos abaixo.
+8. Cada questão pede apenas o envio de um item. No final do código, exporte o objeto criado com a lina "export default" seguido do nome do objeto.
 
 
 ## Para responder as atividades
