@@ -20,3 +20,13 @@
   * as palavras "export default" seguido do nome do objeto, 
   * como "export default personagem"
   */
+const Personagem = {
+
+  nome: "Romeu Rômulo",
+  classe: "bardo",
+  nivel: 12
+
+  equipamento {
+    
+  }
+}
