@@ -39,3 +39,63 @@
   * Lembre-se de exportar o objeto do personagem no final do código.
   */
 
+const personagem ={
+  nome:"Romeu Rômulo",
+  classe:"bardo",
+  nivel:12,
+  equipamentos:["arco", "violão", "gaita", "flechas de aço", "botas de couro", "capa de couro", "chapéu de pena"],
+  pontosDeVida:30,
+  pontosDeMagia:100,
+  moedas:{
+    ouro:20,
+    prata:43,
+    bronze:125,
+  },
+  pocoes:{
+    cura:0,
+    magia:5,
+  },
+  tocarMusica:function(nomeDaMusica,letraDaMusica){
+    console.log(
+     `Senhoras e senhores, gostaria de oferecer a vocês neste dia tempestuoso 
+      uma música para trazer ânimo a seus corpos e esperança para seus corações.
+      Apresento-lhes a música ${nomeDaMusica}
+      Em 1, 2, 3
+      ${letraDaMusica}`
+    )
+  },
+ usarPocao: function() {
+  if (this.pocoes.cura>0) {
+    this.pontosDeVida = 100
+    this.pocoes.cura--
+  }
+},
+comprarPorcoes:function(quantidade){
+
+  if (quantidade * 15 > this.moedas.prata) {
+    let diferenca = (quantidade * 15) - this.moedas.prata
+
+    const trocaBronze=this.moedas.bronze*0.1
+    this.moedas.prata=this.moedas.prata + trocaBronze
+
+    const trocaOuro=this.moedas.ouro*10
+    this.moedas.prata=this.moedas.prata+trocaBronze
+
+    if(quantidade * 15 > this.moedas.prata){
+      console.log("Você não tem dinheiro o suficiente, meu caro. Quer fazer um empréstimo?")
+    }
+    else
+    {
+      this.pocoes.cura++
+      this.moedas.prata=this.moedas.prata-15
+    }
+    } else 
+    {
+      this.pocoes.cura++
+      this.moedas.prata=this.moedas.prata-15
+    }
+  
+}
+}
+
+export default personagem
