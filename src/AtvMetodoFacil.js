@@ -20,3 +20,17 @@
   * Lembre-se de exportar o objeto do personagem no final do código.
   */
 
+ import personagem from "./AtvObjeto";
+ const musica = "Asa branca"
+ const letra = "Quando olhei a terra ardendo Quá fogueira de São João"
+
+personagem.tocarMusica = function(musica, letra) {
+  console.log("Senhoras e senhores, gostaria de oferecer a vocês neste dia tempestuoso " +
+    "uma música para trazer ânimo a seus corpos e esperança para seus corações. " +
+    "Apresento-lhes a música " + musica + ". " +
+    "Em 1, 2, 3 ... " +
+    letra
+  );
+}
+
+export default personagem;
