@@ -16,3 +16,17 @@
   * Lembre-se de exportar o objeto do personagem no final do código.
   */
 
+import personagem from "./AtvMetodoFacil";
+
+personagem.pontosDeVida = 30;
+personagem.tomarPocao = function() {
+   if ( personagem.pocoes.cura > 0) {
+   personagem.pontosDeVida = 100;
+   personagem.pocoes.cura = personagem.pocoes.cura -1;
+  }
+} 
+export default personagem;
+
+
+
+
