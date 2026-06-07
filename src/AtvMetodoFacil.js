@@ -33,13 +33,17 @@ const personagem = {
     "capa de couro", 
     "chapéu de pena",
   ],
-tocarMusica: function(musica,letra) {
+  pontosDeVida: "100",
+  pontosDeMagia: "100",
+  moedas: {ouro: 20, prata: 43, bronze: 125},
+  pocoes: {cura: 7, magia: 5},
+
+tocarMusica: function (musica,letra) {
    console.log("Senhoras e senhores, gostaria de oferecer a vocês neste dia tempestuoso " +
     "uma música para trazer ânimo a seus corpos e esperança para seus corações. " +
     "Apresento-lhes a música " + musica + ". " +
-    "Em 1, 2, 3 ... " +
-    letra
-  );
+    "Em 1, 2, 3 ... " + letra);
 }
 }
+
 export default personagem;
