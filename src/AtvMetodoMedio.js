@@ -16,3 +16,28 @@
   * Lembre-se de exportar o objeto do personagem no final do código.
   */
 
+const personagem = {
+  nome: 'Romeu Rômulo',
+  classe: 'bardo',
+  itens: ['arco', 'violão', 'gaita', 'flechas de aço', 'botas de couro', 'capa de coruo', 'chapéu de pena'],
+  pontosDeVida: 30,
+  pontosDeMagia: 100,
+  moedas: {ouro: 20, prata: 43, bronze: 125},
+  pocoes: {cura: 7, magia: 5},
+  tocarMusica: function(nomeMusica, letraMusica) {
+    console.log(`Senhoras e senhores, gostaria de oferecer a vocês neste dia tempestuoso uma música para trazer ânimo a seus corpos e esperança para seus corações.
+  Apresento-lhes a música ${nomeMusica}
+    
+  Em 1, 2, 3
+  ...
+  ${letraMusica}`
+    )
+  },
+  consumirPocao: function(){
+    this.pontosDeVida = 100;
+    this.pocoes.cura -= 1;
+  }
+}
+
+export default personagem
+
