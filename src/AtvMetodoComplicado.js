@@ -39,3 +39,61 @@
   * Lembre-se de exportar o objeto do personagem no final do código.
   */
 
+const personagem = {
+  nome: "Romeu Rômulo",
+  classe: "bardo",
+  nivel: 12,
+  equipamento: [
+    "arco",
+    "violão",
+    "gaita",
+    "flechas de aço",
+    "botas de couro",
+    "capa de couro",
+    "chapéu de pena",
+  ],
+  pontosDeVida: 30,
+  pontosDeMagia: 100,
+  moedas: { ouro: 20, prata: 43, bronze: 125 },
+  pocoes: { cura: 0, magia: 5 },
+
+  usarPocaoDeCura() {
+    if (this.pocoes.cura > 0) {
+      this.pontosDeVida = 100;
+      this.pocoes.cura -= 1;
+      console.log('Poção usada! Vida restaurada para ${this.pontosDeVida}. Poções restantes: ${this.pocoes.cura}');
+    } else {
+      console.log("Sem poções de cura disponíveis!");
+    }
+  },
+
+  comprarPocoesDeCura(quantidade) {
+    const custoPrata = quantidade * 15;
+
+    // Converte tudo para prata
+    let totalPrata = this.moedas.prata
+      + (this.moedas.ouro * 10)
+      + Math.floor(this.moedas.bronze / 10);
+
+    if (totalPrata < custoPrata) {
+      console.log("Você não tem dinheiro o suficiente, meu caro. Quer fazer um empréstimo?");
+      return;
+    }
+
+    // Desconta o custo do total em prata
+    totalPrata -= custoPrata;
+
+    // Redistribui as moedas a partir do total em prata
+    this.moedas.ouro = Math.floor(totalPrata / 10);
+    this.moedas.prata = totalPrata % 10;
+    this.moedas.bronze = this.moedas.bronze % 10; // bronze que não virou prata permanece
+
+    this.pocoes.cura += quantidade;
+
+    console.log('Compra realizada! +${quantidade} poções de cura.');
+    console.log('Poções de cura: ${this.pocoes.cura}');
+    console.log('Moedas restantes — Ouro: ${this.moedas.ouro} | Prata: ${this.moedas.prata} | Bronze: ${this.moedas.bronze}');
+  },
+};
+
+export default personagem;
