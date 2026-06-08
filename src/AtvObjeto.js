@@ -29,11 +29,15 @@ const personagem = {
   "capa de couro", "chapéu de pena"],
   pontosDeVida: 100,
   pontosDeMagia: 100,
-  moedasDeOuro: 20,
-  moedasDePrata: 43,
-  moedasDeBronze: 125,
-  pocoesCura: 7,
-  pocoesMagia: 5
+  moedas: {
+    Ouro: 20,
+    Prata: 43,
+    Bronze: 125
+  },
+  pocao: {
+  cura: 7,
+  magia: 5
+  } 
 }
 
 export default personagem
