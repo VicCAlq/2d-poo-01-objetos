@@ -16,3 +16,33 @@
   * Lembre-se de exportar o objeto do personagem no final do código.
   */
 
+const personagem = {
+  nome: "Romeu Rômulo",
+  classe: "bardo",
+  nivel: 12,
+  equipamento: [
+    "arco",
+    "violão",
+    "gaita",
+    "flechas de aço",
+    "botas de couro",
+    "capa de couro",
+    "chapéu de pena",
+  ],
+  pontosDeVida: 30,      //  Levou uma surra da platéia
+  pontosDeMagia: 100,
+  moedas: { ouro: 20, prata: 43, bronze: 125 },
+  pocoes: { cura: 7, magia: 5 },
+
+  usarPocaoDeCura() {
+    if (this.pocoes.cura > 0) {
+      this.pontosDeVida = 100;
+      this.pocoes.cura -= 1;
+      console.log('Poção usada! Vida restaurada para ${this.pontosDeVida}. Poções restantes: ${this.pocoes.cura}');
+    } else {
+      console.log("Sem poções de cura disponíveis!");
+    }
+  },
+};
+
+export default personagem;
