@@ -38,4 +38,27 @@
   *
   * Lembre-se de exportar o objeto do personagem no final do código.
   */
+ import personagem from "./AtvMetodoMedio";
+ personagem.pocoes.cura = 0;
+
+const valorTotal = quantidade * 15;
+const dinheiroTotal =  
+  personagem.moedas.ouro * 10 +
+  personagem.moedas.prata +
+  personagem.moedas.bronze / 10;
+
+ personagem.pocoesCompradas = function(quantidade) {
+  
+if (dinheiroTotal >= valorTotal) {
+  
+   personagem.pocoes.cura = personagem.pocoes.cura + quantidade;
+  console.log("poções Compradas!");
+
+   }
+    else{
+    console.log("Não tem dinheiro o suficiente, quer fazer um emprestimo?");
+    }
+
+}
+
 
