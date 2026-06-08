@@ -24,9 +24,16 @@ const Personagem = {
 
   nome: "Romeu Rômulo",
   classe: "bardo",
-  nivel: 12
+  nivel: 12,
 
-  equipamento {
-    
-  }
+  equipamento: ["arco", "violão", "gaita", "flechas de aço", "botas de couro", "capa de couro", "chapéu de pena"],
+
+  pontosDeVida: 100,
+  pontosDeMagia: 100,
+  
+  moedas: ["20 moedas de ouro", "43 moedas de prata", "125 moedas de bronze"],
+
+  pocoes: ["7 de cura", "5 de magia"]
 }
+
+export default Personagem
