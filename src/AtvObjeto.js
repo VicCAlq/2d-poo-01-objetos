@@ -31,9 +31,16 @@ const Personagem = {
   pontosDeVida: 100,
   pontosDeMagia: 100,
   
-  moedas: ["20 moedas de ouro", "43 moedas de prata", "125 moedas de bronze"],
+  moedas:{
+    ouro: 20,
+    prata: 43,
+    bronze: 125,
+  },
 
-  pocoes: ["7 de cura", "5 de magia"]
+  pocoes: {
+    cura: 7,
+    magia: 5,
+  }
 }
 
 export default Personagem
