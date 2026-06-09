@@ -36,11 +36,29 @@ let personagem = {
         cura: 7,
         magia: 5
     },
-    nMusica: "Nome Musica",
-    LMusica: "Letra",
-    tocarMusica: function(nMusica, LMusica) {
-    console.log("Senhoras e senhores, gostaria de oferecer a vocês neste dia tempestuoso uma música para trazer ânimo a seus corpos e esperança para seus corações. Apresento-lhes a música " + [nMusica] + ". Em 1, 2, 3 ... " [LMusica])
+   
+    tocarMusica: function(musica, letra) {
+    return console.log(`Senhoras e senhores, gostaria de oferecer a vocês neste dia tempestuoso uma música para trazer ânimo a seus corpos e esperança para seus corações.
+       
+    Apresento-lhes a música ${musica}.
+   
+    Em 1, 2, 3 ...
+    ${letra}`)
   }
 }
 
+
+let musicasLegais = {
+   musica1: "teste"
+}
+ 
+let letrasDeMusicasLegais = {
+   letra1: "teste"
+}
+
+
+personagem.tocarMusica(musicasLegais.musica1, letrasDeMusicasLegais.letra1)
+
+
 export default personagem
+
