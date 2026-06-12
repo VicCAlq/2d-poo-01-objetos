@@ -21,7 +21,7 @@ const meuPapagaio = {
   // Após a definição de toda propriedade ou método, temos vírgula
   apelido: "Troguinho",
   idade: 16,
-  cores: ["#306080", "#e0a030", "#8040a0"],
+  cores: ["#7dbccc", "#356e75", "#3b7bc5"],
   comidas: ["ração", "larvinhas secas", "couve", "maçã", "banana", "cenoura", "milho"],
   // Objetos podem ter outros objetos dentro, como a lista de remédios abaixo:
   remedios: {
