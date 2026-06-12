@@ -40,4 +40,3 @@ const personagem = {
 }
 
 export default personagem
-
