@@ -6,7 +6,7 @@ Aprendemos já que podemos agrupar diversos valores diferentes em uma estrutura 
 Mas as vezes precisamos de uma forma mais organizada de agrupar os valores, como por exemplo, informações sobre você. Em uma lista, teríamos algo assim:
 
 ```javascript
-const pessoa = ["Leila", "Lélis", 19, 1.68, "Estudante", "UPE", "Engenharia", "leilalelis@email.com.br", "(81) 9 9445-5667", "Lália Lélis", "Ludmilo Lélis"]
+const pessoa = ["Leila", "Lélis", 19, 1.68, "Estudante", "UPE", "Engenharia", "leilalelis@email.com.br", "(81) 9 9445-5667", "Lália Lélis", "Lumilo Lélis"]
 ```
 
 Se quiséssemos acessar a informação de que curso essa pessoa está matriculada, precisaríamos referenciar através do nome da lista e do índice: `pessoa[6]`
@@ -29,7 +29,7 @@ const pessoa = {
     email: "leilalelis@email.com.br", 
     telefone: "(81) 9 9445-5667", 
     nomeDaMae: "Lália Lélis", 
-    nomeDoPai: "Ludmilo Lélis"}
+    nomeDoPai: "Lumilo Lélis"}
 ```
 
 Muito mais fácil de entender, né? Cada valor é armazenado em uma "propriedade" ao invés de um "índice". Podemos acessar os valores assim:
