@@ -25,7 +25,7 @@ let personagem = {
   pontosDeVida: 30,
   pontosDeMagia: 100,
   moedas: { ouro: 20, prata: 43, bronze: 125,},
-  porcoes: {cura: 7, magia: 5 },
+  pocoes: {cura: 7, magia: 5 },
 
   tocarMusica: function (musica, letra) {
   return `Senhoras e senhores, gostaria de oferecer a vocês neste dia tempestuoso
@@ -36,9 +36,9 @@ let personagem = {
   ${letra}`
   }, 
   recuperarVida: function (){
-   if ( this.porcoes["cura"]>0){
+   if ( this.pocoes["cura"]>0){
     this.pontosDeVida= 100;
-    this.porcoes["cura"]-=1;
+    this.pocoes["cura"]-=1;
    }
   }
 }

@@ -30,7 +30,7 @@ let personagem = {
   pontosDeVida: 100,
   pontosDeMagia: 100,
   moedas: { ouro: 20, prata: 43, bronze: 125,},
-  porcoes: {cura: 7, magia: 5 }
+  pocoes: {cura: 7, magia: 5 }
 }
 
 export default personagem
