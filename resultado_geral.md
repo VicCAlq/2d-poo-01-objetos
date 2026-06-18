@@ -1,8 +1,8 @@
-Data de atualização: Dia 17/6/2026 às 21:12 
+Data de atualização: Dia 17/6/2026 às 21:14 
 
 | Aluno | Qtd. questões acertadas (de 3) | Nota total |
 |-------|---------------------------------|------------|
-| Adriano Filipe (adriano-filipe-nave) | 0 | 0.00 |
+| Adriano Filipe (adriano-filipe-nave) | 0 | 24.44 |
 | André Ricardo (andre-ricardo-nave) | 0 | 0.00 |
 | Arthur Amorim (ArthurAmorim67) | 0 | 0.00 |
 | Arthur Felipe (arthur-felipe-nave) | 0 | 0.00 |
