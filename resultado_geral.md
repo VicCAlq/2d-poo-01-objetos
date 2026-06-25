@@ -1,4 +1,4 @@
-Data de atualização: Dia 17/6/2026 às 21:28 
+Data de atualização: Dia 25/6/2026 às 14:57 
 
 | Aluno | Qtd. questões acertadas (de 3) | Nota total |
 |-------|---------------------------------|------------|
@@ -27,7 +27,7 @@ Data de atualização: Dia 17/6/2026 às 21:28
 | Jailson Ferreira (Jailson-Ferreira-nave) | 3 | 100.00 |
 | Jennifer Marielle (jennifer-marielle-nave) | 0 | 0.00 |
 | João Gomes (joaogomes-ctrl) | 0 | 0.00 |
-| Kaique Alex (kaique-alex-nave) | 3 | 100.00 |
+| Kaique Alex (kaique-alex-nave) | 0 | 0.00 |
 | Kaylane Marinho (Kaylane-Marinho-nave) | 3 | 100.00 |
 | Lívia Barros (livia-barros-nave) | 3 | 100.00 |
 | Luanna Carla (Luanna-Carla-nave) | 3 | 100.00 |
@@ -38,10 +38,10 @@ Data de atualização: Dia 17/6/2026 às 21:28
 | Pedro Benício (Pedro-Carvalho-Nave) | 3 | 100.00 |
 | Petrus Guilherme (petrus-guilherme-nave) | 0 | 0.00 |
 | Rianna Lavinia (Rianna-Lavinia-Nave) | 0 | 0.00 |
-| Samuel Assuncao (samuel-assuncao-nave) | 0 | 13.33 |
+| Samuel Assuncao (samuel-assuncao-nave) | 0 | 0.00 |
 | Sophia Goes (sophia-goes-nave) | 0 | 0.00 |
 | Thiago Barbosa (Thiago-Barbosa-Nave) | 1 | 62.22 |
 | Vinicyus Eduardo (vinicyuseduardo-alt) | 3 | 100.00 |
 | Waldemir ViegasAlt (waldemirviegas-alt) | 1 | 46.67 |
-| Wesley Eder (Wesley-Eder-Nave) | 1 | 33.33 |
+| Wesley Eder (Wesley-Eder-Nave) | 2 | 66.67 |
 | Yasmin Rocha (yasmin-rocha-nave) | 3 | 100.00 |
