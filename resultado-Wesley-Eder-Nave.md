@@ -1,16 +1,11 @@
-Data de atualização: Dia 17/6/2026 às 21:28 
+Data de atualização: Dia 25/6/2026 às 14:57 
 
 | Questão | Teste | Entregue | Correto | Mensagem de Erro |
 |---------|-------|----------|---------|------------------|
-
-| ❌❌❌ | Ex 1 | ❌❌❌ | ❌❌❌ | Cannot convert undefined or null to object |
-
-| ❌❌❌ | Ex 2 | ❌❌❌ | ❌❌❌ | Failed to parse source for import analysis because the content contains invalid JS syntax. If you are using JSX, make sure to name the file with the .jsx or .tsx extension. |
-
-| ❌❌❌ | Ex 3 | ❌❌❌ | ❌❌❌ | Cannot convert undefined or null to object |
-| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | ❌ |
-| /AtvMetodoFacil.test.js | ❌ | ❌ | ❌ | ❌ |
-| /AtvMetodoMedio.test.js | ❌ | ❌ | ❌ | ❌ |
+| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | Cannot convert undefined or null to object |
+| /AtvMetodoFacil.test.js | ❌ | ❌ | ❌ | Failed to parse source for import analysis because the content contains invalid JS syntax. If you are using JSX, make sure to name the file with the .jsx or .tsx extension. |
+| Testes para AtvObjeto | O personagem possui o método de usar poção: | ✅ | ✅ | Sem erros |
+| Testes para AtvObjeto | Testando o método consumirPocao do personagem: | ✅ | ✅ | Sem erros |
 | Testes para AtvObjeto | Objeto "personagem" foi exportado corretamente:  | ✅ | ✅ | Sem erros |
 | Testes para AtvObjeto | Componente possui a propriedade nome:  | ✅ | ✅ | Sem erros |
 | Testes para AtvObjeto | Componente possui a propriedade classe:  | ✅ | ✅ | Sem erros |
