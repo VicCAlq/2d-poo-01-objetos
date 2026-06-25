@@ -1,19 +1,5 @@
-Data de atualização: Dia 25/6/2026 às 14:53 
+Data de atualização: Dia 25/6/2026 às 15:1 
 
 | Questão | Teste | Entregue | Correto | Mensagem de Erro |
 |---------|-------|----------|---------|------------------|
-| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | Cannot convert undefined or null to object |
-| Testes para AtvObjeto | Método "tocarMusica" foi criado corretamente | ✅ | ✅ | Sem erros |
-| Testes para AtvObjeto | Testando "tocarMusica" com a música 01 - Exemplo: | ✅ | ❌ | Error: A música não foi corretamente impressa no terminal |
-| Testes para AtvObjeto | Testando "tocarMusica" com a música 02 - Deja Vu: | ✅ | ❌ | Error: A música não foi corretamente impressa no terminal |
-| Testes para AtvObjeto | O personagem possui o método de usar poção: | ✅ | ✅ | Sem erros |
-| Testes para AtvObjeto | Testando o método recuperarVida do personagem: | ✅ | ✅ | Sem erros |
-| Testes para AtvObjeto | Objeto "personagem" foi exportado corretamente:  | ✅ | ✅ | Sem erros |
-| Testes para AtvObjeto | Componente possui a propriedade nome:  | ✅ | ✅ | Sem erros |
-| Testes para AtvObjeto | Componente possui a propriedade classe:  | ✅ | ✅ | Sem erros |
-| Testes para AtvObjeto | Componente possui a propriedade nivel:  | ✅ | ✅ | Sem erros |
-| Testes para AtvObjeto | Componente possui a propriedade equipamento:  | ✅ | ✅ | Sem erros |
-| Testes para AtvObjeto | Componente possui a propriedade pontosDeVida:  | ✅ | ✅ | Sem erros |
-| Testes para AtvObjeto | Componente possui a propriedade pontosDeMagia:  | ✅ | ✅ | Sem erros |
-| Testes para AtvObjeto | Componente possui a propriedade moedas:  | ✅ | ✅ | Sem erros |
-| Testes para AtvObjeto | Componente possui a propriedade pocoes:  | ✅ | ✅ | Sem erros |
+| ❌❌❌ | ❌❌❌ | ❌❌❌ | ❌❌❌ | Algum exercício está com um erro que impossibilitou a execução dos testes. Procure por loops infinitos e outros erros similares que possam ter sido cometidos. |
