@@ -1,10 +1,8 @@
-Data de atualização: Dia 17/6/2026 às 21:28 
+Data de atualização: Dia 25/6/2026 às 14:57 
 
 | Questão | Teste | Entregue | Correto | Mensagem de Erro |
 |---------|-------|----------|---------|------------------|
-
-| ❌❌❌ | Ex 1 | ❌❌❌ | ❌❌❌ | quantidade is not defined |
-| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | ❌ |
+| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | quantidade is not defined |
 | Testes para AtvObjeto | Método "tocarMusica" foi criado corretamente | ✅ | ✅ | Sem erros |
 | Testes para AtvObjeto | Testando "tocarMusica" com a música 01 - Exemplo: | ✅ | ✅ | Sem erros |
 | Testes para AtvObjeto | Testando "tocarMusica" com a música 02 - Deja Vu: | ✅ | ✅ | Sem erros |
