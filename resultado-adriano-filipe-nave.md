@@ -1,10 +1,8 @@
-Data de atualização: Dia 17/6/2026 às 21:25 
+Data de atualização: Dia 25/6/2026 às 14:52 
 
 | Questão | Teste | Entregue | Correto | Mensagem de Erro |
 |---------|-------|----------|---------|------------------|
-
-| ❌❌❌ | Ex 1 | ❌❌❌ | ❌❌❌ | Cannot convert undefined or null to object |
-| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | ❌ |
+| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | Cannot convert undefined or null to object |
 | Testes para AtvObjeto | Método "tocarMusica" foi criado corretamente | ✅ | ✅ | Sem erros |
 | Testes para AtvObjeto | Testando "tocarMusica" com a música 01 - Exemplo: | ✅ | ✅ | Sem erros |
 | Testes para AtvObjeto | Testando "tocarMusica" com a música 02 - Deja Vu: | ✅ | ✅ | Sem erros |
