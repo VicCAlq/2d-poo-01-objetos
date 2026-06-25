@@ -1,8 +1,8 @@
-Data de atualização: Dia 25/6/2026 às 14:57 
+Data de atualização: Dia 25/6/2026 às 15:6 
 
 | Questão | Teste | Entregue | Correto | Mensagem de Erro |
 |---------|-------|----------|---------|------------------|
-| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | Cannot convert undefined or null to object |
+| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | Atividade não feita ou não exportada corretamente |
 | Testes para AtvObjeto | Método "tocarMusica" foi criado corretamente | ✅ | ❌ | TypeError: Cannot read properties of undefined (reading 'tocarMusica') |
 | Testes para AtvObjeto | Testando "tocarMusica" com a música 01 - Exemplo: | ✅ | ❌ | Error: A música não foi corretamente impressa no terminal |
 | Testes para AtvObjeto | Testando "tocarMusica" com a música 02 - Deja Vu: | ✅ | ❌ | Error: A música não foi corretamente impressa no terminal |
