@@ -1,4 +1,4 @@
-Data de atualização: Dia 26/6/2026 às 15:14 
+Data de atualização: Dia 26/6/2026 às 15:36 
 
 | Questão | Teste | Entregue | Correto | Mensagem de Erro |
 |---------|-------|----------|---------|------------------|
@@ -14,7 +14,7 @@ Data de atualização: Dia 26/6/2026 às 15:14
 | AtvObjeto | Componente possui a propriedade nome:  | ✅ | ✅ | Sem erros |
 | AtvObjeto | Componente possui a propriedade classe:  | ✅ | ✅ | Sem erros |
 | AtvObjeto | Componente possui a propriedade nivel:  | ✅ | ✅ | Sem erros |
-| AtvObjeto | Componente possui a propriedade equipamento:  | ✅ | ❌ | Error: Propriedade equipamento não existe ou não possui o tipo correto |
+| AtvObjeto | Componente possui a propriedade equipamento:  | ✅ | ✅ | Sem erros |
 | AtvObjeto | Componente possui a propriedade pontosDeVida:  | ✅ | ✅ | Sem erros |
 | AtvObjeto | Componente possui a propriedade pontosDeMagia:  | ✅ | ✅ | Sem erros |
 | AtvObjeto | Componente possui a propriedade moedas:  | ✅ | ✅ | Sem erros |
