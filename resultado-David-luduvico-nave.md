@@ -1,5 +1,19 @@
-Data de atualização: Dia 26/6/2026 às 15:34 
+Data de atualização: Dia 26/6/2026 às 15:38 
 
 | Questão | Teste | Entregue | Correto | Mensagem de Erro |
 |---------|-------|----------|---------|------------------|
-| ❌❌❌ | ❌❌❌ | ❌❌❌ | ❌❌❌ | Autor do commit (envio) não corresponde ao dono da Branch |
+| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | Atividade não feita ou não exportada corretamente |
+| AtvMetodoFacil | Método "tocarMusica" foi criado corretamente | ✅ | ✅ | Sem erros |
+| AtvMetodoFacil | Testando "tocarMusica" com a música 01 - Exemplo: | ✅ | ❌ | Error: A música não foi corretamente impressa no terminal |
+| AtvMetodoFacil | Testando "tocarMusica" com a música 02 - Deja Vu: | ✅ | ❌ | Error: A música não foi corretamente impressa no terminal |
+| AtvMetodoMedio | O personagem possui o método de usar poção: | ✅ | ✅ | Sem erros |
+| AtvMetodoMedio | Testando o método recuperarVida do personagem: | ✅ | ✅ | Sem erros |
+| AtvObjeto | Objeto "personagem" foi exportado corretamente:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade nome:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade classe:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade nivel:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade equipamento:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade pontosDeVida:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade pontosDeMagia:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade moedas:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade pocoes:  | ✅ | ✅ | Sem erros |
