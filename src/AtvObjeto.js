@@ -25,7 +25,7 @@ const personagem ={
   nome:"Romeu Rômulo",
   classe:"bardo",
   nivel:12,
-  equipamentos:["arco", "violão", "gaita", "flechas de aço", "botas de couro", "capa de couro", "chapéu de pena"],
+  equipamento:["arco", "violão", "gaita", "flechas de aço", "botas de couro", "capa de couro", "chapéu de pena"],
   pontosDeVida:100,
   pontosDeMagia:100,
   moedas:{
