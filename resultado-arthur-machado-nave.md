@@ -1,5 +1,21 @@
-Data de atualização: Dia 26/6/2026 às 10:51 
+Data de atualização: Dia 26/6/2026 às 12:43 
 
 | Questão | Teste | Entregue | Correto | Mensagem de Erro |
 |---------|-------|----------|---------|------------------|
-| ❌❌❌ | ❌❌❌ | ❌❌❌ | ❌❌❌ | Algum exercício está com um erro que impossibilitou a execução dos testes. Procure por loops infinitos e outros erros similares que possam ter sido cometidos. |
+| AtvMetodoComplicado | O personagem possui o método comprar poções de cura: | ✅ | ✅ | Sem erros |
+| AtvMetodoComplicado | Testando a quantidade de poções compradas pelo método comprarPocao do personagem com 3 itens comprados: | ✅ | ✅ | Sem erros |
+| AtvMetodoComplicado | Testando a quantidade de troco restante após uso do método comprarPocao do personagem com 3 itens comprados: | ✅ | ❌ | Error: Número de moedas restantes não corresponde ao esperado após compra. |
+| AtvMetodoFacil | Método "tocarMusica" foi criado corretamente | ✅ | ✅ | Sem erros |
+| AtvMetodoFacil | Testando "tocarMusica" com a música 01 - Exemplo: | ✅ | ✅ | Sem erros |
+| AtvMetodoFacil | Testando "tocarMusica" com a música 02 - Deja Vu: | ✅ | ✅ | Sem erros |
+| AtvMetodoMedio | O personagem possui o método de usar poção: | ✅ | ✅ | Sem erros |
+| AtvMetodoMedio | Testando o método consumirPocao do personagem: | ✅ | ✅ | Sem erros |
+| AtvObjeto | Objeto "personagem" foi exportado corretamente:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade nome:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade classe:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade nivel:  | ✅ | ❌ | Error: Propriedade nivel não existe ou não possui o tipo correto |
+| AtvObjeto | Componente possui a propriedade equipamento:  | ✅ | ❌ | Error: Propriedade equipamento não existe ou não possui o tipo correto |
+| AtvObjeto | Componente possui a propriedade pontosDeVida:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade pontosDeMagia:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade moedas:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade pocoes:  | ✅ | ✅ | Sem erros |
