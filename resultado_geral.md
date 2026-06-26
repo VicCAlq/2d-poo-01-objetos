@@ -1,4 +1,4 @@
-Data de atualização: Dia 26/6/2026 às 10:55 
+Data de atualização: Dia 26/6/2026 às 12:47 
 
 | Aluno | Qtd. questões acertadas (de 3) | Nota total |
 |-------|---------------------------------|------------|
@@ -6,7 +6,7 @@ Data de atualização: Dia 26/6/2026 às 10:55
 | André Ricardo (andre-ricardo-nave) | 0 | 0.00 |
 | Arthur Amorim (ArthurAmorim67) | 0 | 0.00 |
 | Arthur Felipe (arthur-felipe-nave) | 0 | 0.00 |
-| Arthur Machado (arthur-machado-nave) | 0 | 0.00 |
+| Arthur Machado (arthur-machado-nave) | 3 | 100.00 |
 | Bernardo Cavalcanti (bernardoCavalcanti67) | 0 | 0.00 |
 | Bianca Beatriz (bianca-beatriz-nave) | 3 | 100.00 |
 | Brendha Priscilla (brendha-priscilla-nave) | 2 | 82.22 |
