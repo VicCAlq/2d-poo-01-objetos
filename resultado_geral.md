@@ -1,4 +1,4 @@
-Data de atualização: Dia 26/6/2026 às 15:37 
+Data de atualização: Dia 26/6/2026 às 15:42 
 
 | Aluno | Qtd. questões acertadas (de 3) | Nota total |
 |-------|---------------------------------|------------|
@@ -15,7 +15,7 @@ Data de atualização: Dia 26/6/2026 às 15:37
 | Caua Rafael (caua-rafael-nave) | 0 | 0.00 |
 | Clarice Vitoria (clarice-vitoria-nave) | 3 | 100.00 |
 | Davi Emmanuel (Davi1008) | 0 | 0.00 |
-| David Luduvico (David-luduvico-nave) | 0 | 0.00 |
+| David Luduvico (David-luduvico-nave) | 2 | 82.22 |
 | Eduardo Crisriano (eduardo-cristiano-nave) | 0 | 0.00 |
 | Emilly Maciel (emilly-maciel-nave26) | 3 | 100.00 |
 | Gabriel Cavalcanti (gabriel-cavalcanti-nave) | 3 | 100.00 |
