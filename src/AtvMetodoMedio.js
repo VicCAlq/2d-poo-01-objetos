@@ -17,7 +17,7 @@
   */
 
 const personagem = {
-  nome: RomeuRômulo,
+  nome: "Romeu Rômulo",
   classe: bardo,
   nivel: 12,
   equipamento: ["arco", "violão", "gaita", "flechas de aço", "botas de couro",
