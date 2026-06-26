@@ -1,4 +1,4 @@
-Data de atualização: Dia 26/6/2026 às 12:47 
+Data de atualização: Dia 26/6/2026 às 15:16 
 
 | Aluno | Qtd. questões acertadas (de 3) | Nota total |
 |-------|---------------------------------|------------|
