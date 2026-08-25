@@ -1,11 +1,13 @@
-Data de atualização: Dia 26/6/2026 às 15:41 
+Data de atualização: Dia 25/8/2026 às 16:46 
 
 | Questão | Teste | Entregue | Correto | Mensagem de Erro |
 |---------|-------|----------|---------|------------------|
-| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | Atividade não feita ou não exportada corretamente |
-| AtvMetodoFacil | Método "tocarMusica" foi criado corretamente | ✅ | ❌ | TypeError: Cannot read properties of undefined (reading 'tocarMusica') |
-| AtvMetodoFacil | Testando "tocarMusica" com a música 01 - Exemplo: | ✅ | ❌ | Error: A música não foi corretamente impressa no terminal |
-| AtvMetodoFacil | Testando "tocarMusica" com a música 02 - Deja Vu: | ✅ | ❌ | Error: A música não foi corretamente impressa no terminal |
+| AtvMetodoComplicado | O personagem possui o método comprar poções de cura: | ✅ | ✅ | Sem erros |
+| AtvMetodoComplicado | Testando a quantidade de poções compradas pelo método comprarPocao do personagem com 3 itens comprados: | ✅ | ✅ | Sem erros |
+| AtvMetodoComplicado | Testando a quantidade de troco restante após uso do método comprarPocao do personagem com 3 itens comprados: | ✅ | ❌ | Error: Número de moedas restantes não corresponde ao esperado após compra. |
+| AtvMetodoFacil | Método "tocarMusica" foi criado corretamente | ✅ | ✅ | Sem erros |
+| AtvMetodoFacil | Testando "tocarMusica" com a música 01 - Exemplo: | ✅ | ✅ | Sem erros |
+| AtvMetodoFacil | Testando "tocarMusica" com a música 02 - Deja Vu: | ✅ | ✅ | Sem erros |
 | AtvMetodoMedio | O personagem possui o método de usar poção: | ✅ | ❌ | AssertionError: expected undefined to be type of 'function' |
 | AtvObjeto | Objeto "personagem" foi exportado corretamente:  | ✅ | ✅ | Sem erros |
 | AtvObjeto | Componente possui a propriedade nome:  | ✅ | ✅ | Sem erros |
