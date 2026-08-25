@@ -1,5 +1,18 @@
-Data de atualização: Dia 26/6/2026 às 15:38 
+Data de atualização: Dia 25/8/2026 às 16:44 
 
 | Questão | Teste | Entregue | Correto | Mensagem de Erro |
 |---------|-------|----------|---------|------------------|
-| ❌❌❌ | ❌❌❌ | ❌❌❌ | ❌❌❌ | Autor do commit (envio) não corresponde ao dono da Branch |
+| /AtvMetodoComplicado.test.js | ❌ | ❌ | ❌ | Atividade não feita ou não exportada corretamente |
+| AtvMetodoFacil | Método "tocarMusica" foi criado corretamente | ✅ | ✅ | Sem erros |
+| AtvMetodoFacil | Testando "tocarMusica" com a música 01 - Exemplo: | ✅ | ✅ | Sem erros |
+| AtvMetodoFacil | Testando "tocarMusica" com a música 02 - Deja Vu: | ✅ | ✅ | Sem erros |
+| /AtvMetodoMedio.test.js | ❌ | ❌ | ❌ | Atividade não feita ou não exportada corretamente |
+| AtvObjeto | Objeto "personagem" foi exportado corretamente:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade nome:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade classe:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade nivel:  | ✅ | ❌ | Error: Propriedade nivel não existe ou não possui o tipo correto |
+| AtvObjeto | Componente possui a propriedade equipamento:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade pontosDeVida:  | ✅ | ❌ | Error: Propriedade pontosDeVida não existe ou não possui o tipo correto |
+| AtvObjeto | Componente possui a propriedade pontosDeMagia:  | ✅ | ❌ | Error: Propriedade pontosDeMagia não existe ou não possui o tipo correto |
+| AtvObjeto | Componente possui a propriedade moedas:  | ✅ | ✅ | Sem erros |
+| AtvObjeto | Componente possui a propriedade pocoes:  | ✅ | ✅ | Sem erros |
