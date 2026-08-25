@@ -1,4 +1,4 @@
-Data de atualização: Dia 26/6/2026 às 15:42 
+Data de atualização: Dia 25/8/2026 às 16:47 
 
 | Aluno | Qtd. questões acertadas (de 3) | Nota total |
 |-------|---------------------------------|------------|
@@ -12,7 +12,7 @@ Data de atualização: Dia 26/6/2026 às 15:42
 | Brendha Priscilla (brendha-priscilla-nave) | 2 | 82.22 |
 | Breno Costa (Breno-Costa-Nave) | 0 | 0.00 |
 | Caio Brandao (caio-brandao-nave) | 0 | 0.00 |
-| Caua Rafael (caua-rafael-nave) | 0 | 0.00 |
+| Caua Rafael (caua-rafael-nave) | 1 | 57.78 |
 | Clarice Vitoria (clarice-vitoria-nave) | 3 | 100.00 |
 | Davi Emmanuel (Davi1008) | 0 | 0.00 |
 | David Luduvico (David-luduvico-nave) | 2 | 82.22 |
@@ -42,6 +42,6 @@ Data de atualização: Dia 26/6/2026 às 15:42
 | Sophia Goes (sophia-goes-nave) | 0 | 0.00 |
 | Thiago Barbosa (Thiago-Barbosa-Nave) | 1 | 62.22 |
 | Vinicyus Eduardo (vinicyuseduardo-alt) | 3 | 100.00 |
-| Waldemir ViegasAlt (waldemirviegas-alt) | 1 | 46.67 |
+| Waldemir ViegasAlt (waldemirviegas-alt) | 2 | 97.78 |
 | Wesley Eder (Wesley-Eder-Nave) | 2 | 66.67 |
 | Yasmin Rocha (yasmin-rocha-nave) | 3 | 100.00 |
